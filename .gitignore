@@ -19,7 +19,6 @@ backend/venv/
 ENV/
 env/
 # Python
-__pycache__/
 *.pyc
 
 venv/
@@ -44,21 +43,10 @@ Thumbs.db
 .vscode/
 .idea/
 # Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.venv/
-venv/
 
 # Environment
-.env
 
 # Models (CRITICAL)
-*.gguf
-*.bin
-*.safetensors
-backend/app/models/
 
 # OS
 
@@ -78,17 +66,13 @@ logs/
 # =========================
 # LLM / Model files
 # =========================
-*.gguf
-*.bin
 *.pt
 *.ckpt
 models/
-backend/app/models/
 
 # =========================
 # Environment variables
 # =========================
-.env
 .env.*
 !.env.example
 
