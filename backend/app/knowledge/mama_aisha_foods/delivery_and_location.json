@@ -1,0 +1,12 @@
+{
+  "delivery": {
+    "available": true,
+    "coverage": "Within Abuja city",
+    "delivery_fee": "Depends on distance"
+  },
+  "location": {
+    "city": "Abuja",
+    "area": "Wuse Zone 4",
+    "landmark": "Near Wuse Market"
+  }
+}

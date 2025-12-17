@@ -3,8 +3,8 @@ from datetime import datetime
 import torch
 
 # Load model once (on startup)
-model_name = "NCAIR1/N-ATLaS"
-model_name = "../"
+# model_name = "NCAIR1/N-ATLaS"
+model_name = "backend\app\models\N-ATLaS-GGUF-Q4_K_M.gguf"
 
 print("Loading N-ATLaS model...")
 

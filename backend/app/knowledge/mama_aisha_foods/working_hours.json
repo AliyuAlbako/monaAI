@@ -1,0 +1,8 @@
+{
+  "working_hours": {
+    "days": "Monday to Saturday",
+    "open_time": "08:00 AM",
+    "close_time": "06:00 PM",
+    "closed_days": ["Sunday"]
+  }
+}

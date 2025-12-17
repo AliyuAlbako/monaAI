@@ -1,0 +1,152 @@
+[
+  {
+    "session_id": "d34d7d91-5ae2-4084-87b4-d5dbdfc44c67",
+    "role": "user",
+    "text": "good morning",
+    "timestamp": "2025-12-16T22:42:51.351328"
+  },
+  {
+    "session_id": "d34d7d91-5ae2-4084-87b4-d5dbdfc44c67",
+    "role": "assistant",
+    "text": "good morning, how can I assist you today?",
+    "timestamp": "2025-12-16T22:45:30.248815"
+  },
+  {
+    "session_id": "string",
+    "role": "user",
+    "text": "good morning",
+    "timestamp": "2025-12-16T23:30:56.687899"
+  },
+  {
+    "session_id": "string",
+    "role": "assistant",
+    "text": "Good morning!",
+    "timestamp": "2025-12-16T23:33:49.998257"
+  },
+  {
+    "session_id": "string",
+    "role": "user",
+    "text": "Ina kwana?",
+    "timestamp": "2025-12-16T23:42:06.986010"
+  },
+  {
+    "session_id": "string",
+    "role": "user",
+    "text": "Ina Kuke?",
+    "timestamp": "2025-12-16T23:42:35.149579"
+  },
+  {
+    "session_id": "string",
+    "role": "assistant",
+    "text": "Business Location:\nAddress: No. 33 Adetayo Street, Ogba, Ikeja, Lagos State.\nCity: Ikeja\nState: Lagos",
+    "timestamp": "2025-12-16T23:45:40.909070"
+  },
+  {
+    "session_id": "string",
+    "role": "user",
+    "text": "How much is jollof rice?",
+    "timestamp": "2025-12-17T02:48:10.669198"
+  },
+  {
+    "session_id": "string",
+    "role": "user",
+    "text": "How much is jollof rice?",
+    "timestamp": "2025-12-17T03:03:09.707339"
+  },
+  {
+    "session_id": "56034788-5461-4ad1-a183-5798365e706e",
+    "role": "user",
+    "text": "hello",
+    "timestamp": "2025-12-17T03:47:23.163465"
+  },
+  {
+    "session_id": "56034788-5461-4ad1-a183-5798365e706e",
+    "role": "assistant",
+    "text": "I\u2019m fine, thank you. How can I help you?",
+    "timestamp": "2025-12-17T03:47:23.334566"
+  },
+  {
+    "session_id": "56034788-5461-4ad1-a183-5798365e706e",
+    "role": "user",
+    "text": "ina kwana",
+    "timestamp": "2025-12-17T03:47:51.634610"
+  },
+  {
+    "session_id": "56034788-5461-4ad1-a183-5798365e706e",
+    "role": "assistant",
+    "text": "Lafiya lau, na gode. Yaya zan taimaka?",
+    "timestamp": "2025-12-17T03:47:51.707621"
+  },
+  {
+    "session_id": "fe479a77-0bea-4191-90f1-ae37fffd3678",
+    "role": "user",
+    "text": "hello",
+    "timestamp": "2025-12-17T05:47:35.645181"
+  },
+  {
+    "session_id": "fe479a77-0bea-4191-90f1-ae37fffd3678",
+    "role": "assistant",
+    "text": "I\u2019m fine, thank you. How can I help you?",
+    "timestamp": "2025-12-17T05:47:35.715119"
+  },
+  {
+    "session_id": "fe479a77-0bea-4191-90f1-ae37fffd3678",
+    "role": "user",
+    "text": "ina kwana",
+    "timestamp": "2025-12-17T05:47:54.013531"
+  },
+  {
+    "session_id": "fe479a77-0bea-4191-90f1-ae37fffd3678",
+    "role": "assistant",
+    "text": "Lafiya lau, na gode. Yaya zan taimaka?",
+    "timestamp": "2025-12-17T05:47:54.090589"
+  },
+  {
+    "session_id": "fe479a77-0bea-4191-90f1-ae37fffd3678",
+    "role": "user",
+    "text": "ina kuke",
+    "timestamp": "2025-12-17T05:48:10.669014"
+  },
+  {
+    "session_id": "fe479a77-0bea-4191-90f1-ae37fffd3678",
+    "role": "user",
+    "text": "food price",
+    "timestamp": "2025-12-17T05:49:26.951926"
+  },
+  {
+    "session_id": "f01a426b-b1ee-4f83-b41c-064aa7329cd9",
+    "role": "user",
+    "text": "food price",
+    "timestamp": "2025-12-17T06:07:00.694558"
+  },
+  {
+    "session_id": "f01a426b-b1ee-4f83-b41c-064aa7329cd9",
+    "role": "assistant",
+    "text": "I\u2019m fine, thank you. How can I help you?",
+    "timestamp": "2025-12-17T06:08:46.636712"
+  },
+  {
+    "session_id": "f01a426b-b1ee-4f83-b41c-064aa7329cd9",
+    "role": "user",
+    "text": "good morning",
+    "timestamp": "2025-12-17T06:09:49.364402"
+  },
+  {
+    "session_id": "f01a426b-b1ee-4f83-b41c-064aa7329cd9",
+    "role": "assistant",
+    "text": "I\u2019m fine, thank you. How can I help you?",
+    "timestamp": "2025-12-17T06:11:24.328235"
+  },
+  {
+    "session_id": "e99b8e3d-eda2-49ed-85e2-47eb8d8638cc",
+    "role": "user",
+    "text": "ina kuke",
+    "timestamp": "2025-12-17T06:24:35.860800"
+  },
+  {
+    "session_id": "e99b8e3d-eda2-49ed-85e2-47eb8d8638cc",
+    "role": "assistant",
+    "text": "Lafiya lau, na gode. Yaya zan taimaka?",
+    "timestamp": "2025-12-17T06:25:41.488150"
+  }
+]

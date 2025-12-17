@@ -1,0 +1,27 @@
+{
+  "business_name": "Mama Aisha Foods",
+  "description": "We sell homemade Nigerian meals and snacks.",
+  "working_hours": "Monday to Saturday, 8am – 6pm",
+  "delivery": "Yes, within the city",
+  "location": "Abuja, Wuse Zone 4",
+  "faqs": [
+    {
+      "q": "Do you deliver?",
+      "a": "Yes, we deliver within the city."
+    },
+    {
+      "q": "What time do you open?",
+      "a": "We open from 8am to 6pm, Monday to Saturday."
+    }
+  ],
+  "price_list": [
+    {
+      "item": "Jollof Rice",
+      "price": "₦2,500"
+    },
+    {
+      "item": "Meat Pie",
+      "price": "₦800"
+    }
+  ]
+}

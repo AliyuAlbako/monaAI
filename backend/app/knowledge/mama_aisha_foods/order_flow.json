@@ -1,0 +1,9 @@
+{
+  "order_process": [
+    "Tell us what you want to order",
+    "Confirm quantity and price",
+    "Share your delivery location",
+    "Make payment",
+    "Your order will be prepared and delivered"
+  ]
+}

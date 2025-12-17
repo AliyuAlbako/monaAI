@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "intent": "delivery",
+      "keywords": ["deliver", "delivery", "kawo", "aika", "is delivery available"],
+      "answer": "Yes, we deliver within Abuja. Delivery fee depends on your location."
+    },
+    {
+      "intent": "opening_hours",
+      "keywords": ["open", "working hours", "lokaci", "time", "e kaaro"],
+      "answer": "We open from 8am to 6pm, Monday to Saturday."
+    },
+    {
+      "intent": "bulk_orders",
+      "keywords": ["bulk", "party", "event", "catering"],
+      "answer": "Yes, we accept bulk and event orders. Please contact us ahead of time."
+    },
+    {
+      "intent": "payment",
+      "keywords": ["payment", "pay", "transfer", "cash"],
+      "answer": "We accept bank transfer and cash on delivery."
+    }
+  ]
+}

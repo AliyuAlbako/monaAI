@@ -1,0 +1,19 @@
+{
+  "tips": [
+    {
+      "intent": "start_food_business",
+      "keywords": ["start food business", "begin food business", "food business nigeria"],
+      "answer": "To start a food business in Nigeria, begin with a small menu, maintain good hygiene, calculate your costs properly, and grow with customer trust."
+    },
+    {
+      "intent": "food_pricing",
+      "keywords": ["food pricing", "how to price food"],
+      "answer": "Food pricing should include cost of ingredients, gas, packaging, labor, and a reasonable profit margin."
+    },
+    {
+      "intent": "customer_retention",
+      "keywords": ["retain customers", "keep customers"],
+      "answer": "Consistent taste, good customer service, timely delivery, and fair pricing help retain customers."
+    }
+  ]
+}
